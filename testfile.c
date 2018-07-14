@@ -7,4 +7,5 @@ int main(void){
 }
 void dummyfunc(){
 	printf("Hello\n");
+	printf("Locally changed\n");
 }
