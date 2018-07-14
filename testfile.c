@@ -3,6 +3,7 @@
 
 int main(void){
 	printf("New changes\n");
+	printf("Other changes\n");
 	retirn 0;
 }
 void dummyfunc(){
